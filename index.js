@@ -27,5 +27,5 @@ function sayHiToGrandma(string){
   
 }
 
-console.log(sayHiToGrandma("HELO"));
+//console.log(sayHiToGrandma("HELO"));
 
